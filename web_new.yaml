@@ -19,6 +19,6 @@ spec:
     spec:
       containers:
       - name: my-web-container
-        image: aa04726/my_registry:ex-web4
+        image: aa047267/my_registry:ex-web4
         ports:
         - containerPort: 80
