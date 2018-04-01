@@ -1,3 +1,0 @@
-This is for testing reset and checkout
-This is again second line
-Third line

@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-This is second file
-=======
-Hi! This is a new file
->>>>>>> 1f5c7287ad1ef93bc358c17c41b79932f398a2fa
