@@ -2,3 +2,4 @@ HelloWorld
 This is second line of HelloWorld file
 Third line of the initialization file
 Testing for auto build
+This is the fifth line of the file
